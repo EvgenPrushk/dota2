@@ -43,7 +43,8 @@
     ]
   },
   "main": "index.tsx",
-  "repository": "https://evgenprushk.github.io/dota2",
+  "repository": "https://github.com/EvgenPrushk/dota2",
+  "homepage": "https://evgenprushk.github.io/dota2",
   "author": "Evgen Prushak <31402792+EvgenPrushk@users.noreply.github.com>",
   "license": "MIT"
 }
