@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dota2/static/css/main.f443afbe.css",
+    "main.js": "/dota2/static/js/main.3442d2ef.js",
+    "index.html": "/dota2/index.html",
+    "main.f443afbe.css.map": "/dota2/static/css/main.f443afbe.css.map",
+    "main.3442d2ef.js.map": "/dota2/static/js/main.3442d2ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f443afbe.css",
+    "static/js/main.3442d2ef.js"
+  ]
+}
